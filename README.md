@@ -1,5 +1,5 @@
 # Alternative-AltF4
-This is the first game, I ever made.
+This is the first game I made. It's just two chapter to play. It's short but fun.
 
 
 ![Ekran Alıntısı](https://user-images.githubusercontent.com/121103371/225300291-d6c442a6-9a5b-41db-accc-a6bdbfe7dca5.PNG)
